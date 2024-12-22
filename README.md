@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Ruaan! 👋
 
-<!--
-**domalab/domalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on [UNRAID Integration](https://github.com/domalab/ha-unraid)
+- 🌱 I’m learning Python, AI and ML
+- 💬 Ask me about Azure, DevOps, Home Assistant, or Python!
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domalab&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domalab&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Repositories
+- [UNRAID Integration](https://github.com/domalab/ha-unraid)
+- [UNRAID API](https://github.com/domalab/unraid-api)
+
